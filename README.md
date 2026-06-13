@@ -19,7 +19,7 @@
 - [x] Day 01 - Linux CLI Fundamentals
 - [x] Day 02 - DNS in Detail
 - [x] Day 03 - Intro to Logs
-- [ ] Day 04 - Linux Logging for SOC
+- [x] Day 04 - Linux Logging for SOC
 - [ ] Day 05 - Traffic Analysis Essentials
 
 ## Goal
