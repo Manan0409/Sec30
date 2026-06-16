@@ -21,6 +21,7 @@
 - [x] Day 03 - Intro to Logs
 - [x] Day 04 - Linux Logging for SOC
 - [x] Day 05 - Traffic Analysis Essentials
+- [x] Day06 - Wazuh-Agent-Onboarding
 
 ## Goal
 
