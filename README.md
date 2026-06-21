@@ -22,6 +22,7 @@
 - [x] Day 04 - Linux Logging for SOC
 - [x] Day 05 - Traffic Analysis Essentials
 - [x] Day06 - Wazuh-Agent-Onboarding
+- [x] Day 07 - Investigated SSH brute force detection with Wazuh
 
 ## Goal
 
