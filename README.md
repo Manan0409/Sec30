@@ -23,7 +23,7 @@
 - [x] Day 05 - Traffic Analysis Essentials
 - [x] Day06 - Wazuh-Agent-Onboarding
 - [x] Day 07 - Investigated SSH brute force detection with Wazuh
-
+- [x] Day 08 - Wazuh Rules and Decoders
 ## Goal
 
 Document every learning session, lab exercise, and investigation while building a public cybersecurity portfolio.
