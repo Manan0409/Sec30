@@ -124,11 +124,8 @@ Big lesson today: **visibility ≠ detection**. Seeing protocol events in `eve.j
 
 - [x] Suricata installed
 - [x] Rules downloaded
-- [x]LAN interface monitoring configured
+- [x] LAN interface monitoring configured
 - [x] Traffic inspection confirmed
 - [x] EVE JSON logging working
 - ⚠️ Signature alerts not generating still troubleshooting
 
-```
-
-```
