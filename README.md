@@ -37,7 +37,6 @@
 
 =======
 - [X] Day 10 - Fixing Suricata and network architecture.
->>>>>>> 5c7f008b18d0350c07406e6edf3354796894d134
 ## Goal
 
 Document every learning session, lab exercise, and investigation while building a public cybersecurity portfolio.
