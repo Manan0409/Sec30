@@ -34,9 +34,7 @@
 ### Week 03
 
 - [x] Day-11 - Understanding-Suricata-Internals
-
-=======
-- [X] Day 10 - Fixing Suricata and network architecture.
+- [x] Day-12 - Writing-Suricata-customrules
 ## Goal
 
 Document every learning session, lab exercise, and investigation while building a public cybersecurity portfolio.
